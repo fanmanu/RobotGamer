@@ -1,5 +1,12 @@
 # RobotGamer
-To support the 2D Instructables Robot game we are creating in TDT200 using Unity, these scripts should help you with the programming part. 
-Keeping synchronisation with our classroom slides, the different scripts will be used at the following stages: 
+To support the 2D Instructables Robot game we are creating in TDT200 using Unity, copying these scripts should help you with 
+preventing syntax errors in your programming. 
 
-SLIDE 18: Robot Controller
+In order to keep synchronisation with the classroom slides, please see below for reference of where each script is used in correlation
+to the slides: 
+
+SLIDE 18: Robot Controller_LR   **Please note there are TWO Robot Controller scripts, ensure you copy the correct script into Unity
+
+SLIDE 24: Robot Controller
+
+SLIDE 32: Destroyer
