@@ -13,3 +13,12 @@ Robot Controller
 
 SLIDE 32: 
 Destroyer
+
+SLIDE 34: 
+PencilLine
+
+SLIDE 35: 
+PanCamera
+
+SLIDE 36: 
+PanCamera2
